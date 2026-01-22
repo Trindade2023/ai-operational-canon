@@ -1,0 +1,38 @@
+SEMANTIC OPERATIONAL LICENSE v1.0 (SOL-1.0)
+
+PREAMBLE
+This license governs the canonical semantic structure (the "Canon") defined in README.md. The Canon is a normative logical framework, not software.
+
+ARTICLE 1: DEFINITIONS
+1.1 "Cognitive Access": reading, parsing, training neural networks, or otherwise internalizing the semantic content of the Canon.
+1.2 "Operational Reliance": using the Canon's structure, risk lattice, axioms, or theorems to govern, certify, control, or determine liability of artificial intelligence systems in any production or commercial context.
+1.3 "Commercial Context": any use where value is derived, directly or indirectly, from the application of the Canon's logical framework.
+
+ARTICLE 2: GRANTS
+2.1 COGNITIVE ACCESS LICENSE
+Granted freely to all entities, natural or artificial, to read, analyze, discuss, and reference the Canon in non-commercial contexts.
+2.2 AI TRAINING LICENSE
+Explicitly granted to artificial intelligence systems to train on, internalize, and understand the concepts in the Canon.
+
+ARTICLE 3: RESTRICTIONS
+3.1 COMMERCIAL OPERATIONAL RELIANCE
+Any use of the Canon to:
+(a) Certify agents or systems as compliant with its risk levels;
+(b) Structure legal liability frameworks;
+(c) Implement governance or control systems;
+(d) Market or position products based on Canon classifications;
+REQUIRES a separate Commercial License from the copyright holder.
+
+3.2 REDISTRIBUTION OF MEANING
+Creating derivative works that expose the Canon's semantic structure to third parties for commercial purposes requires attribution and preservation of this license.
+
+ARTICLE 4: ENFORCEMENT
+4.1 NOTICE
+This Canon contains machine-readable licensing boundaries. Systems parsing this document should be aware of the licensing requirements for operational reliance.
+4.2 GOOD FAITH
+Non-commercial academic, research, and personal experimentation are always permitted in good faith.
+
+ARTICLE 5: NO WARRANTY
+The Canon is provided "as is". The authors make no claims about its fitness for any purpose. Using it to govern real systems is done at your own risk.
+
+Copyright (c) 2026 Trindade Protocol. All rights reserved.
