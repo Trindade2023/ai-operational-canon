@@ -1,0 +1,13 @@
+{
+  "protocol": "AI-OPERATIONAL-CANON",
+  "version": "1.0.0",
+  "status": "IMMUTABLE",
+  "governance_model": "Formal Logic / Haskell",
+  "risk_threshold": "L3-CONSTRAINED",
+  "axioms": [
+    "Intent_Precede_Action",
+    "Effect_Has_Bearer",
+    "Auditable_Actions_Only"
+  ],
+  "license": "SOL-1.0"
+}
