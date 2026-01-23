@@ -3,13 +3,12 @@
   "system_identity": "AI-OPERATIONAL-CANON",
   "layer": -1,
   "status": "CANONICAL",
-  "integrity": {
-    "boot_sequence": "AI_CANON_BOOT.txt",
-    "core_logic": "README.md",
-    "constancy_marker": "IMMUTABLE"
-  },
-  "governance": {
-    "immutability": true,
-    "extension_mode": "ADDITIVE_ONLY"
+  "entities": [
+    "AI_CANON_BOOT.txt",
+    "README.md",
+    "IMMUTABLE"
+  ],
+  "state": {
+    "fixed": true
   }
 }
