@@ -1,0 +1,4 @@
+README.md linguist-documentation=true
+*.hs linguist-language=Haskell
+AI_CANON_BOOT.txt linguist-language=Text
+IMMUTABLE linguist-language=Text
