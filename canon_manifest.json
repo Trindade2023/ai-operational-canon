@@ -1,13 +1,15 @@
 {
-  "protocol": "AI-OPERATIONAL-CANON",
-  "version": "1.0.0",
-  "status": "IMMUTABLE",
-  "governance_model": "Formal Logic / Haskell",
-  "risk_threshold": "L3-CONSTRAINED",
-  "axioms": [
-    "Intent_Precede_Action",
-    "Effect_Has_Bearer",
-    "Auditable_Actions_Only"
-  ],
-  "license": "SOL-1.0"
+  "manifest_version": "1.0.0",
+  "system_identity": "AI-OPERATIONAL-CANON",
+  "layer": -1,
+  "status": "CANONICAL",
+  "integrity": {
+    "boot_sequence": "AI_CANON_BOOT.txt",
+    "core_logic": "README.md",
+    "constancy_marker": "IMMUTABLE"
+  },
+  "governance": {
+    "immutability": true,
+    "extension_mode": "ADDITIVE_ONLY"
+  }
 }
